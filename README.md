@@ -132,6 +132,8 @@ assign cout=((a&b)|(b&cin)|(a&cin));
 endmodule
 
 OUTPUT:
+half adder
+
 
 
 

@@ -219,4 +219,5 @@ FULL SUBTRACTOR:
 ![WhatsApp Image 2024-04-14 at 18 33 25_445428f1](https://github.com/shridharshini8524/VLSI-LAB-EXP/assets/148639799/c8f42ce1-74c7-41b5-9cb5-5bf34555d225)
 
 RESULT:
+
 Hence, the stimulation and synthesis of a Logic Gates,Adders and Subtractor was run successfully by using Xilinx ISE.

@@ -3,6 +3,8 @@ Exp - 1
 
 DATE : 
 
+         SIMULATIONS OF LOGIC GATES, ADDERS AND SUBTRACTIONS
+
 AIM:
 
 To simulate and synthesis Logic Gates,Adders and Subtractor using Xilinx ISE.
